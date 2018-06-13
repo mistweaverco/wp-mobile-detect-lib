@@ -4,7 +4,7 @@ Donate link: https://paypal.me/babba
 Tags: mobile, tablet, ipad
 Requires at least: 3.0
 Tested up to: 4.9.1
-Stable tag: 1.0.0
+Stable tag: 2.0.0
 License: GPLv3
 Requires PHP: 5.3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -46,3 +46,7 @@ none
 
 = 1.0.0 =
 * First commit
+
+= 2.0.0 =
+* Update Mobile_Detect.php lib to 2.8.32
+
